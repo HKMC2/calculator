@@ -10,8 +10,7 @@ int main(int argc, char* argv[])
 	int number1, number2, result;
 	char operator;
 	
-	printf("입력해 주세요");
-	scanf("%d %c %d", &number1, &operator, &number2);
+	printf("입력해 주세요, ex 1+2 =3..");
 	
 	switch (operator)
 	{
